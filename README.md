@@ -1,4 +1,1 @@
-# CodeSoft
-# CodeSoft
-# CodeSoft
-# CodeSoft
+This repository contains projects and assignments completed during my Java internship at CodeSoft. The repository showcases my understanding of Java programming concepts, data structures, and softw…
